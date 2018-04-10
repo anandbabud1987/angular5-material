@@ -1,14 +1,14 @@
 {
-  "name": "bb-pro",
+  "name": "angular5mat-nav",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "ng build --prod",
-    "e2e": "ng e2e",
-    "lint": "ng lint",
     "ng": "ng",
     "start": "ng serve",
-    "test": "ng test"
+    "build": "ng build --prod",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
     "@angular/material": "^5.1.0",
     "@angular/platform-browser": "^5.2.0",
     "@angular/platform-browser-dynamic": "^5.2.0",
-    "@angular/router": "^5.2.1",
+    "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
     "hammerjs": "^2.0.8",
     "rxjs": "^5.5.6",
